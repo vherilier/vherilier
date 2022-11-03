@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source Initiative
 - 📫 How to reach me:
   - Email: vherilier@gmail.com
-  - Github: @vherilier
+  - Github: [https://github.com/vherilier/vherilier](@vherilier)
   - Twitter: @humanoid74
   - ...
 
