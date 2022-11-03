@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   - Email: vherilier@gmail.com
   - Github: @vherilier
-  - Twitter: ...
+  - Twitter: @humanoid74
   - ...
 
 <!---
