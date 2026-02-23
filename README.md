@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Vincent Hérilier from Grenoble, France
-- 👀 I’m interested in Computer Science, Software Development, Ski, Woodworking, Wines and Beers
-- 🌱 I’m currently learning Javascript frameworks and libraries like Angular, ReactJS and NestJS
+- 👀 I’m interested in (Computer) Science, Software Development, Ski, Woodworking, Wines and Beers
+- 🌱 I’m currently:
+  - enjoying:
+    - Web applications based on Javascript/Typescript frameworkslike Angular, ReactJS and NestJS with Mateial as UI library
+    - Mobile applications powered by Android
+  - discovering AI based development
 - 💞️ I’m looking to collaborate on Open Source Initiative
 - 📫 How to reach me:
   - Email: vherilier@gmail.com
