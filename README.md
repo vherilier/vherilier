@@ -6,6 +6,7 @@
   - Email: vherilier@gmail.com
   - Github: [@vherilier](https://github.com/vherilier/vherilier)
   - Twitter: [@humanoid74](https://twitter.com/humanoid74)
+  - LinkedIn: [Vincent HERILIER](https://www.linkedin.com/in/vincentherilier/)
   - ...
 
 <!---
