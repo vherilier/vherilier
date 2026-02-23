@@ -2,8 +2,9 @@
 - 👀 I’m interested in (Computer) Science, Software Development, Ski, Woodworking, Wines and Beers
 - 🌱 I’m currently:
   - enjoying:
-    - Web applications based on Javascript/Typescript frameworkslike Angular, ReactJS and NestJS with Mateial as UI library
+    - Web applications based on Javascript/Typescript frameworks like Angular, ReactJS and NestJS with Mateial as UI library
     - Mobile applications powered by Android
+    - Fullstack and DevOps approach (mostly with JAVA backend)
   - discovering AI based development
 - 💞️ I’m looking to collaborate on Open Source Initiative
 - 📫 How to reach me:
